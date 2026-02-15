@@ -11,7 +11,7 @@ Nome: João Pedro de Oliveira Salazar
 RA: 825133002
 Curso: Engenharia de Software
 Semestre: 3º Semestre
-Bairro: Itaqquera
+Bairro: Itaquera
 Trabalha: Sim, trabalho no ramo administrativo no Instituto do coração do HCFMUSP
 Objetivo: Conseguir um estágio em na área de TI e colocar em prática os conhecimentos adquiridos na faculdade
 ---
