@@ -15,3 +15,11 @@ Bairro: Itaquera
 Trabalha: Sim, trabalho no ramo administrativo no Instituto do coração do HCFMUSP
 Objetivo: Conseguir um estágio em na área de TI e colocar em prática os conhecimentos adquiridos na faculdade
 ---
+Nome: Matheus Caires Costa 
+RA: 825127880
+Curso: Engenharia de Software
+Semestre: 3º Semestre
+Bairro: São Lucas
+Trabalha: Sim, Atualmente trabalho em uma empresa de Engenharia, pretendo conseguir colocar em pratica meus projetos para adquirir conhecimentos para
+conseguir um estagio.
+---
