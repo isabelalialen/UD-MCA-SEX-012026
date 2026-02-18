@@ -28,4 +28,5 @@ Curso: Engenharia de Software
 Semestre: 3º Semestre
 Bairro: Belem
 Trabalha: Sim, trabalho em um escritório de contabilidade
-Objetivo: pretendo ingressar na área de programação, buscando crescer bastante e me desenvolver profissionalmente nesse setor.
+Objetivo:predento entrar na áreae crescerbastante e desenvolvendo o 
+conhecimento da programação
