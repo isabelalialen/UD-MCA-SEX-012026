@@ -22,3 +22,11 @@ Bairro: São Lucas
 Trabalha: Sim, Atualmente trabalho em uma empresa de Engenharia, pretendo conseguir colocar em pratica meus projetos para adquirir conhecimentos para
 conseguir um estagio.
 
+Nome: Aniel paulo Nina Purga
+RA: 825157942
+Curso: Engenharia de Software
+Semestre: 3º Semestre
+Bairro: Belem
+Trabalha: Sim, trabalho em um escritório de contabilidade
+Objetivo:predento entrar na áreae crescerbastante e desenvolvendo o 
+conhecimento da programação
